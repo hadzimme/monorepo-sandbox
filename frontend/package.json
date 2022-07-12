@@ -8,7 +8,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "@testing-library/dom": "8.14.1",
+    "@testing-library/dom": "8.16.0",
     "@tsconfig/node16": "1.0.3",
     "@types/jest": "28.1.4",
     "@types/node": "16.11.43",
