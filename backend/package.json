@@ -10,7 +10,7 @@
     "@tsconfig/node16": "1.0.3",
     "@types/jest": "28.1.4",
     "@types/node": "16.11.43",
-    "@typescript-eslint/eslint-plugin": "5.30.5",
+    "@typescript-eslint/eslint-plugin": "5.32.0",
     "@typescript-eslint/parser": "5.30.5",
     "eslint": "8.19.0",
     "eslint-config-prettier": "8.5.0",
